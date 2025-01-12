@@ -16,7 +16,7 @@ A simple console-based application that encodes text to binary and decodes binar
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/binary-translator.git
+   git clone https://github.com/vallz0/binary-translator.git
    cd binary-translator
 2. Run the application:
    ```bash
